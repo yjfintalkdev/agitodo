@@ -10,10 +10,8 @@ P. Asimakopoulos (https://ubuverse.com)
 
 ## Screenshots
 
-![small][https://raw.githubusercontent.com/pasimako/agitodo/master/small.png]
-
-![large][https://raw.githubusercontent.com/pasimako/agitodo/master/large.png]
-
+[[https://raw.githubusercontent.com/pasimako/agitodo/master/small.png|alt=small]]
+[[https://raw.githubusercontent.com/pasimako/agitodo/master/large.png|alt=large]]
 
 ## Building
 
