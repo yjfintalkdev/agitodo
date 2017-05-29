@@ -67,6 +67,8 @@ $ cd www
 $ npm install
 $ node bin/create_test_account.js
 $ node index.js
+
+# Check bin/create_test_account.js for login credentials
 ```
 
 ### Android
